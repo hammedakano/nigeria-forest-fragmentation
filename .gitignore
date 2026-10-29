@@ -1,0 +1,15 @@
+# Large or regenerable outputs (archived on Zenodo)
+outputs/
+figure_maps/
+zenodo_maps/
+# Reserve boundaries (WDPA licence) and upload files
+gee_upload/
+# Generated copies of the GEE scripts
+gee_standalone/
+# Manuscript drafts and review material
+docs/
+.DS_Store
+.Rhistory
+.RData
+.Rproj.user/
+__pycache__/

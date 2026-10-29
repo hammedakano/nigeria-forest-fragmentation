@@ -1,0 +1,77 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite the article and this software release."
+title: "Forest fragmentation in eight Nigerian forest reserves: Google Earth Engine and R workflow (Sentinel-2, Random Forest, CA-Markov)"
+type: software
+version: 1.0.0
+date-released: "YYYY-MM-DD"            # set on release
+license: MIT
+repository-code: "https://github.com/hammedakano/nigeria-forest-fragmentation"
+authors:
+  - family-names: Akano
+    given-names: Hammed
+    email: hammed.akano@deakin.edu.au
+    affiliation: "School of Life and Environmental Sciences, Deakin University, Melbourne, VIC 3125, Australia; The Federal University of Technology Akure, Akure, Ondo State, Nigeria"
+    orcid: "https://orcid.org/0009-0009-2867-2187"
+  - family-names: Igbaoreto
+    given-names: Waliu
+    affiliation: "The Federal University of Technology Akure, Akure, Ondo State, Nigeria"
+    # orcid: "https://orcid.org/0000-0000-0000-0000"
+  - family-names: Odebiri
+    given-names: Omosalewa
+    affiliation: "School of Life and Environmental Sciences, Deakin University, Melbourne, VIC 3125, Australia"
+    # orcid: "https://orcid.org/0000-0000-0000-0000"
+  - family-names: Young
+    given-names: Mary
+    affiliation: "School of Life and Environmental Sciences, Deakin University, Melbourne, VIC 3125, Australia"
+    # orcid: "https://orcid.org/0000-0000-0000-0000"
+  - family-names: Olamide
+    given-names: Rhamat
+    affiliation: "Faculty of The Social Sciences, University of Ibadan, Ibadan, Oyo State, Nigeria"
+    # orcid: "https://orcid.org/0000-0000-0000-0000"
+  - family-names: Adesina
+    given-names: Ameenat
+    affiliation: "Department of Innovation in Biological, Agro-food and Forest Systems (DIBAF), Tuscia University, Viterbo, Italy"
+    # orcid: "https://orcid.org/0000-0000-0000-0000"
+  - family-names: Naicker
+    given-names: Rowan
+    affiliation: "Discipline of Geography, School of Agriculture and Science, University of KwaZulu-Natal, Pietermaritzburg, South Africa"
+    # orcid: "https://orcid.org/0000-0000-0000-0000"
+  - family-names: Sodiq
+    given-names: Ajadi
+    affiliation: "The Federal University of Technology Akure, Akure, Ondo State, Nigeria; Department of Earth and Environmental Sciences, The University of Manchester, Manchester, United Kingdom"
+    # orcid: "https://orcid.org/0000-0000-0000-0000"
+keywords:
+  - forest fragmentation
+  - landscape metrics
+  - Sentinel-2
+  - Google Earth Engine
+  - random forest
+  - CA-Markov
+  - uncertainty
+  - Nigeria
+# identifiers:
+#   - type: doi
+#     value: "10.5281/zenodo.XXXXXXX"       # software DOI, added after the Zenodo release
+preferred-citation:
+  type: article
+  title: "Forecasting forest fragmentation across Nigeria's major biomes using Sentinel-2, Random Forest, and CA-Markov"
+  journal: "Scientific African"
+  year: 2026                               # update on acceptance
+  authors:
+    - family-names: Akano
+      given-names: Hammed
+    - family-names: Igbaoreto
+      given-names: Waliu
+    - family-names: Odebiri
+      given-names: Omosalewa
+    - family-names: Young
+      given-names: Mary
+    - family-names: Olamide
+      given-names: Rhamat
+    - family-names: Adesina
+      given-names: Ameenat
+    - family-names: Naicker
+      given-names: Rowan
+    - family-names: Sodiq
+      given-names: Ajadi
+  # doi: "10.1016/j.sciaf.XXXX.eXXXXX"

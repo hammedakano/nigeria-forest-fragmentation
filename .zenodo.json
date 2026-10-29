@@ -1,0 +1,54 @@
+{
+  "title": "Forest fragmentation in eight Nigerian forest reserves: Google Earth Engine and R workflow (Sentinel-2, Random Forest, CA-Markov)",
+  "description": "<p>Google Earth Engine (JavaScript) and R code for mapping high, low and no vegetation in eight Nigerian forest reserves (2019 and 2024 dry seasons), measuring change in landscape configuration (patch density, edge density, largest patch index, aggregation index), propagating classification uncertainty into the metrics, and projecting cover and configuration to 2028 and 2033 with a calibrated stochastic CA-Markov model. Includes the photo-interpreted reference points. The maps, tables and figures are archived separately (see related identifiers).</p>",
+  "upload_type": "software",
+  "license": "MIT",
+  "access_right": "open",
+  "creators": [
+    {
+      "name": "Akano, Hammed",
+      "affiliation": "Deakin University; The Federal University of Technology Akure",
+      "orcid": "0009-0009-2867-2187"
+    },
+    {
+      "name": "Igbaoreto, Waliu",
+      "affiliation": "The Federal University of Technology Akure, Akure, Ondo State, Nigeria"
+    },
+    {
+      "name": "Odebiri, Omosalewa",
+      "affiliation": "School of Life and Environmental Sciences, Deakin University, Melbourne, VIC 3125, Australia"
+    },
+    {
+      "name": "Young, Mary",
+      "affiliation": "School of Life and Environmental Sciences, Deakin University, Melbourne, VIC 3125, Australia"
+    },
+    {
+      "name": "Olamide, Rhamat",
+      "affiliation": "Faculty of The Social Sciences, University of Ibadan, Ibadan, Oyo State, Nigeria"
+    },
+    {
+      "name": "Adesina, Ameenat",
+      "affiliation": "Department of Innovation in Biological, Agro-food and Forest Systems (DIBAF), Tuscia University, Viterbo, Italy"
+    },
+    {
+      "name": "Naicker, Rowan",
+      "affiliation": "Discipline of Geography, School of Agriculture and Science, University of KwaZulu-Natal, Pietermaritzburg, South Africa"
+    },
+    {
+      "name": "Sodiq, Ajadi",
+      "affiliation": "The Federal University of Technology Akure, Akure, Ondo State, Nigeria; Department of Earth and Environmental Sciences, The University of Manchester, Manchester, United Kingdom"
+    }
+  ],
+  "keywords": [
+    "forest fragmentation",
+    "landscape metrics",
+    "Sentinel-2",
+    "Google Earth Engine",
+    "random forest",
+    "CA-Markov",
+    "uncertainty",
+    "Nigeria"
+  ],
+  "related_identifiers": [],
+  "notes": "Reserve boundaries are from the World Database on Protected Areas (UNEP-WCMC and IUCN) and are not redistributed; WDPA IDs are listed in data/reserves.csv."
+}
